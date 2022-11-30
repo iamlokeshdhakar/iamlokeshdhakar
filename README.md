@@ -29,8 +29,7 @@ I am 3'rd year student at SIRT Bhopal studying Computer Science Engineering. I a
 
 
 
-<a href="https://www.github.com/lokeshdhakar97" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lokeshdhakar97?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills
 
@@ -47,6 +46,7 @@ src="https://img.shields.io/github/followers/lokeshdhakar97?logo=github&style=fo
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/lokeshdhakar97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
