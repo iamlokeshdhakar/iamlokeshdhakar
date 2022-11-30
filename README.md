@@ -8,7 +8,7 @@ I am 3'rd year student at SIRT Bhopal studying Computer Science Engineering. I a
 * ✉️  You can contact me at [lokeshdhakar6633@gmail.com](mailto:lokeshdhakar6633@gmail.com)
 * 🚀  I'm currently working on [Easy Task](http://github.com/lokeshdhakar97/Project-Management)
 * 🧠  I'm learning React.js
-* 🤝  I'm open to collaborating on Interesting Web Project
+* 🤝  I'm open to collaborating on Interesting Web Project [Chat on Whatsapp](https://wa.link/7qavf7)
 
 ## My Values
 🧠 Thoughtful & Inclusive Development <br/>
