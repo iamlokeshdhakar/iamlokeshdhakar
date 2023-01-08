@@ -5,9 +5,9 @@ I am 3'rd year student at SIRT Bhopal studying Computer Science Engineering. I a
 
 * 🌍  I'm based in Bhopal, India
 * 🖥️  See my portfolio at [Portfolio](http://lokeshdhakar97.github.io/My-Portfolio/)
-* ⬇️  Download Resume [Download](https://drive.google.com/file/d/1dsnZw4Xdv7GigB1L_31S4Ps5HClj-Qpa/view?usp=sharing)
+* ⬇️  Resume Download [Click Here](https://drive.google.com/file/d/1dsnZw4Xdv7GigB1L_31S4Ps5HClj-Qpa/view?usp=sharing)
 * ✉️  You can contact me at [lokeshdhakar6633@gmail.com](mailto:lokeshdhakar6633@gmail.com)
-* 🚀  I'm currently working on [Easy Task](http://github.com/lokeshdhakar97/Project-Management)
+* 🚀  I'm currently working on [Easy Task](http://github.com/lokeshdhakar97/Project-Management) Web Application Project
 * 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on Interesting Web Project [Chat on Whatsapp](https://wa.link/7qavf7)
 
