@@ -30,3 +30,7 @@ I am 3'rd year student at SIRT Bhopal studying Computer Science Engineering. I a
 
 ### Skills
 HTML, CSS, JavaScript, Nodejs, Expressjs, Reactjs, Nextjs, MongoDB, GitHub, Java
+
+## GitHub Stats 📊
+![Lokesh's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshdhakar97&theme=tokyonight&hide_border=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lokeshdhakar97&theme=dark&hide_border=true)<br>
