@@ -5,10 +5,10 @@ I am 3'rd year student at SIRT Bhopal studying Computer Science Engineering. I a
 
 * 🌍  I'm based in Bhopal, India
 * 🖥️  See my portfolio at [Portfolio](http://lokeshdhakar97.github.io/My-Portfolio/)
-* ⬇️  Resume Download [Click Here](https://drive.google.com/file/d/1dsnZw4Xdv7GigB1L_31S4Ps5HClj-Qpa/view?usp=sharing)
+* ⬇️  Resume Download [Click Here](https://lokeshdhakar97.github.io/My-Portfolio/assests/LokeshDhakar.pdf)
 * ✉️  You can contact me at [lokeshdhakar6633@gmail.com](mailto:lokeshdhakar6633@gmail.com)
 * 🚀  I'm currently working on [Scope Seeker](https://github.com/scopeseeker/scopeseeker-frontend) Web Application Project
-* 🧠  I'm learning React.js
+* 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on Interesting Web Project [Chat on Whatsapp](https://wa.link/7qavf7)
 
 ## My Values
