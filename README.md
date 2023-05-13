@@ -28,11 +28,11 @@
 - [Linkedin](https://www.linkedin.com/in/lokesh-dhakar/) <br/>
 
 ## Languages and Tools ⚙️
-Programming Languages: JavaScript, TypeScript, Java
-Frotned Development: HTML, CSS, Chakra UI, Next.js, React.js
-Backend Development: Node.js, Express.js
-Database: MongoDB
-Tools: Git & GitHub
+* Programming Languages: JavaScript, TypeScript, Java
+* Frotned Development: HTML, CSS, Chakra UI, Next.js, React.js
+* Backend Development: Node.js, Express.js
+* Database: MongoDB
+* Tools: Git & GitHub
 
 ## GitHub Stats 📊
 ![Lokesh's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshdhakar97&theme=dark&hide_border=true)<br>
