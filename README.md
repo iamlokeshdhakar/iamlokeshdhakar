@@ -41,3 +41,10 @@ HTML, CSS, JavaScript, Nodejs, Expressjs, Reactjs, Nextjs, MongoDB, GitHub, Java
 - [Instagram](https://www.instagram.com/developer_lokesh/) <br/>
 - [Linkedin](https://www.linkedin.com/in/lokesh-dhakar/) <br/>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/lokeshdhakar97/lokeshdhakar97/output/snake.svg" alt="Snake animation" />
+
+###
