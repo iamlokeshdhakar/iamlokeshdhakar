@@ -1,11 +1,11 @@
 <h1 align="flex-start">Hi 👋, I'm Lokesh Dhakar</h1>
-<h3 align="flex-start">As a highly motivated and detail-oriented individual, I have always been fascinated by the world of computer science and the endless possibilities that it offers. Pursuing a Bachelor's degree in Computer Science Engineering has given me the opportunity to explore this field in depth and hone my skills in various programming languages and web development frameworks.</h3>
+<h3 align="flex-start">Hello! I'm a dedicated student on a journey to earn a Bachelor of Technology degree in Computer Science with a focus on Full Stack Web Development. My mission is to make a substantial impact in the ever-evolving tech landscape.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshdhakar97&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshdhakar97" /> </p>
 
 - 🔭 I’m currently working on [Scope Seeker](https://github.com/scopeseeker/scopeseeker-frontend)
 
-- 🌱 I’m currently learning **Docker, TypeScript, Next.js**
+- 🌱 I’m currently learning **TypeScript, Next.js**
 
 - 👯 I’m looking to collaborate on [Scope Seeker](https://github.com/scopeseeker/scopeseeker-frontend)
 
