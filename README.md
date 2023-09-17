@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshdhakar97&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshdhakar97" /> </p>
 
-- 🔭 I’m currently working on [Scope Seeker](https://github.com/scopeseeker/scopeseeker-frontend)
+- 🔭 I’m currently working on [ScopeSeeker](https://github.com/scopeseeker/scopeseeker-frontend)
 
 - 🌱 I’m currently learning **TypeScript, Next.js**
 
