@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on [Scope Seeker](https://github.com/scopeseeker/scopeseeker-frontend)
 
-- 🤝 I’m looking for help with [Scope Seeker](https://github.com/scopeseeker/scopeseeker-frontend)
-
 - 👨‍💻 All of my projects are available at [https://lokeshdhakar97.github.io/My-Portfolio/](https://lokeshdhakar97.github.io/My-Portfolio/)
 
 - 💬 Ask me about **Full Stack Web Development**
