@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **lokeshdhakar6633@gmail.com**
 
-- 📄 Know about my experiences [https://lokeshdhakar97.github.io/My-Portfolio/assests/LokeshDhakar.pdf](https://lokeshdhakar97.github.io/My-Portfolio/assests/LokeshDhakar.pdf)
-
 - ⚡ Fun fact **When I'm not busy coding or working on projects, you'll often find me binge-watching my favorite series.**
 
 
