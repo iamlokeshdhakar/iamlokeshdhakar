@@ -1,5 +1,6 @@
 <h1 align="flex-start">Hi 👋, I'm Lokesh Dhakar</h1>
-<h3 align="flex-start">Hello! I'm a dedicated student on a journey to earn a Bachelor of Technology degree in Computer Science with a focus on Full Stack Web Development. My mission is to make a substantial impact in the ever-evolving tech landscape.</h3>
+<h4 align="flex-start"> Hello! I'm a dedicated student on a journey to earn a Bachelor of Technology degree in Computer Science with a focus on Full Stack Web Development. My mission is to make a substantial impact in the ever-evolving tech landscape.</h4>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshdhakar97&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshdhakar97" /> </p>
 
