@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lokeshdhakar97.github.io/My-Portfolio/](https://lokeshdhakar97.github.io/My-Portfolio/)
 
-- 💬 Ask me about **Full Stack Web Development | MERN Stack | JavaScript**
+- 💬 Ask me about **Full Stack Web Development | MERN Stack | JavaScript | NextJS | ReactJS**
 
 - 📫 How to reach me **lokeshdhakar6633@gmail.com**
 
