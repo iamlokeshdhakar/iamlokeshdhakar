@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [ScopeSeeker](https://github.com/scopeseeker/scopeseeker-frontend)
 
-- 🌱 I’m currently learning **TypeScript, Next.js**
+- 🌱 I’m currently learning **DSA, TypeScript, Next.js**
 
 - 👯 I’m looking to collaborate on [Scope Seeker](https://github.com/scopeseeker/scopeseeker-frontend)
 
