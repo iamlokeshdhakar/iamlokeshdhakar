@@ -29,6 +29,14 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+
+
+</br>
+
+## Github Trophy
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamlokeshdhakar" alt="iamlokeshdhakar" /></a> </p>
+
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshdhakar97&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshdhakar97" /> </p>
 
@@ -86,8 +94,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
 </div>
 
-## Github Trophy
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamlokeshdhakar" alt="iamlokeshdhakar" /></a> </p>
 
 ## GitHub Stats 📊
 
