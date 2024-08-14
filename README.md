@@ -3,7 +3,7 @@
 </br>
 
 <h1 align="center">Hello there 👋, I'm Lokesh Dhakar</h1>
-<h3 align="center">Passionate Software Engineer from India</h3>
+<h3 align="center">Software Engineer from India</h3>
 </br>
 </br>
 </br>
