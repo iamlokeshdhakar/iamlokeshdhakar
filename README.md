@@ -46,7 +46,7 @@
 
 - 👯 I’m looking to collaborate on [Scope Seeker](https://github.com/scopeseeker/scopeseeker-frontend)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://lokeshdhakar97.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ilokesh.com)
 
 - 💬 Ask me about **Full Stack Development | MERN Stack | JavaScript | NextJS | ReactJS**
 
@@ -56,8 +56,6 @@
 </br>
 
 ## Technologies and Tools ⚙️
-<h2>Technologies and Tools ⚙️</h2>
-
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
