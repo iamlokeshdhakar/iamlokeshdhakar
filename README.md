@@ -7,7 +7,7 @@
 </br>
 </br>
 </br>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">I’m a full-stack developer who loves turning ideas into real, usable products. Most of my work sits at the intersection of clean design and scalable backend systems, but I’m equally curious about how AI can shape the future of everyday apps. I enjoy building things from scratch, solving tricky problems, and sharing what I learn along the way. Beyond code, I see myself as someone on a constant growth journey—always experimenting, reflecting, and trying to “fix everything I always wanted to do.”</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/iamlokeshdhakar/" target="_blank">
@@ -39,12 +39,6 @@
 
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshdhakar97&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshdhakar97" /> </p>
-
-- 🔭 I’m currently working on [ScopeSeeker](https://github.com/scopeseeker/scopeseeker-frontend)
-
-- 🌱 I’m currently learning **Advanced Web2, Web3, and Devops**
-
-- 👯 I’m looking to collaborate on [Scope Seeker](https://github.com/scopeseeker/scopeseeker-frontend)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://ilokesh.com)
 
